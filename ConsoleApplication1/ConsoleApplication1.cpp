@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
+// ConsoleApplication1.cpp : Definiert den Einstiegspunkt fï¿½r die Konsolenanwendung.
 //
 
 #include "stdafx.h"
@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	// Dies ist ein Test Kommentar
+
 	return 0;
 }
 
