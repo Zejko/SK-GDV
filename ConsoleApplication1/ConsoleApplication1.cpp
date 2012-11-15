@@ -9,6 +9,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	// Dies ist ein Test Kommentar
 	
 	int i = 0;
+    int b = 1;
+
 
 	return 0;
 }
